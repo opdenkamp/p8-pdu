@@ -1,0 +1,10 @@
+{
+  "domain": "p8_pdu",
+  "name": "Pulse-Eight PDU",
+  "config_flow": true,
+  "documentation": "https://www.pulse-eight.com",
+  "dependencies": [],
+  "codeowners": ["@opdenkamp"],
+  "requirements": ["p8_pdu>=0.1.0"],
+  "version": "0.1.0"
+}

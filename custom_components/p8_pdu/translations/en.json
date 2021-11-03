@@ -1,0 +1,14 @@
+{
+  "config": {
+    "flow_title": "{name}",
+    "abort": {
+      "not_supported": "Not Supported"
+    },
+    "step": {
+      "user": {
+        "description": "Do you want to set up {address}?",
+        "title": "Pulse-Eight PDU Discovered"
+      }
+    }
+  }
+}
